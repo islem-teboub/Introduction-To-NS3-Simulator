@@ -1,4 +1,4 @@
-# -IntroductionTo-The-NS3-Simulator
+# Introduction-To-NS3-Simulator
 The main objective of this work is to provide practical works as examples to learn about the use of the widespread network simulator, which is NS3.
 
 The work consists of 7 simulations as follows:
