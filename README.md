@@ -13,7 +13,7 @@ The work consists of 7 simulations as follows:
 
 5 / The simulated simulation, named Simulation 5, establishes a client / server architecture composed of two clients and a single server. Both clients are connected to the CSMA / CD server. The specification of this topology is that it realizes a simple protocol of communication and exchange of information by diffusion of messages.
 
-6 / The sixth simulation, named Simulation 6, establishes a client / server architecture composed of two clients and a single server. Both clients are connected to the server in Peer to Peer. The specification of this topology is that the server performs a sum computation of two integers sent by its clients. He will then send the sum calculated to his two customers via a broadcast message.
+6 / The sixth simulation, named Simulation 6, establishes a client / server architecture composed of two clients and a single server. Both clients are connected to the server in Peer to Peer. The specification of this topology is that the server performs a sum computation of two integers sent by its clients. He will then send the sum calculated to his two customers via a broadcast message. Le code est testé avec la version NS-3.40
 
 7 / The latest simulation, called Simulation 7 Composite, is a client / server architecture with 5 clients and a single server that also serves as an access point for one of its clients.
 The links between the clients and the servers are WiFi, Peer to Peer, CSMA, and Adhoc links.
