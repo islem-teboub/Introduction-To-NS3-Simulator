@@ -18,4 +18,4 @@ The work consists of 7 simulations as follows:
 7 / The latest simulation, called Simulation 7 Composite, is a client / server architecture with 5 clients and a single server that also serves as an access point for one of its clients.
 The links between the clients and the servers are WiFi, Peer to Peer, CSMA, and Adhoc links.
 
-SimulationX : Many others .cc files are added as examples.
+SimulationX : Many others .cc files are added as examples. The description of each file functions is available on the file itself (on the .cc code as comments).
